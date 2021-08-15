@@ -1,0 +1,1 @@
+# Extracting dense trajectories for master thesis
