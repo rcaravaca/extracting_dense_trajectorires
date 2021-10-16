@@ -41,7 +41,7 @@ int main(int argc, char** argv)
 	comp[3]='\0';
 	
 	if (strcmp (comp,"mp4")!=0){
-		strcat(seq,"%05d.png");
+		// strcat(seq,"%05d.png");
 		printf("Loading SEQUENCE in %s\n",video);
 	}
 	else{
